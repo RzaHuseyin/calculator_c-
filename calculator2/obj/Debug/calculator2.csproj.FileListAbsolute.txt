@@ -10,7 +10,6 @@ c:\users\rza\documents\visual studio 2017\Projects\calculator2\calculator2\obj\D
 C:\Users\Rza\Documents\GitHub\calculator_c#\calculator2\bin\Debug\calculator2.exe.config
 C:\Users\Rza\Documents\GitHub\calculator_c#\calculator2\bin\Debug\calculator2.exe
 C:\Users\Rza\Documents\GitHub\calculator_c#\calculator2\bin\Debug\calculator2.pdb
-C:\Users\Rza\Documents\GitHub\calculator_c#\calculator2\obj\Debug\calculator2.csprojResolveAssemblyReference.cache
 C:\Users\Rza\Documents\GitHub\calculator_c#\calculator2\obj\Debug\calculator2.Form1.resources
 C:\Users\Rza\Documents\GitHub\calculator_c#\calculator2\obj\Debug\calculator2.Properties.Resources.resources
 C:\Users\Rza\Documents\GitHub\calculator_c#\calculator2\obj\Debug\calculator2.csproj.GenerateResource.Cache
